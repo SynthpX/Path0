@@ -1,10 +1,11 @@
-* Wordlist 
+WORDLIST
 
-ftp://ftp.openwall.com/pub/wordlists/
-https://github.com/berzerk0/Probable-Wordlists
-http://www.openwall.com/mirrors/
-http://www.outpost9.com/files/WordLists.html
-http://www.vulnerabilityassessment.co.uk/passwords.htm
-http://packetstormsecurity.org/Crackers/wordlists/
-http://www.ai.uga.edu/ftplib/natural-language/moby/
-http://wordlist.sourceforge.net/
+* ftp://ftp.openwall.com/pub/wordlists/
+* https://github.com/berzerk0/Probable-Wordlists
+* http://www.openwall.com/mirrors/
+* http://www.outpost9.com/files/WordLists.html
+* http://www.vulnerabilityassessment.co.uk/passwords.htm
+* http://packetstormsecurity.org/Crackers/wordlists/
+* http://www.ai.uga.edu/ftplib/natural-language/moby/
+* http://wordlist.sourceforge.net/
+
